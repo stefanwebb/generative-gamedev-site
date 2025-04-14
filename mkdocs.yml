@@ -1,6 +1,6 @@
 site_name: Generative GameDev
-site_url: http://localhost.com:8000/
-repo_url: https://github.com/stefanwebb/generative-gamedev
+site_url: https://gamedev.blog/
+repo_url: https://github.com/stefanwebb/generative-gamedev/
 repo_name: generative-gamedev
 use_directory_urls: true
 
