@@ -1,10 +1,10 @@
 ---
 draft: false
-date: 2025-03-02
+date: 2025-04-13
 slug: welcome
 title: Welcome to my vlog on GenAI and GameDev!
-thumbnail: "../assets/welcome-to-my-vlog-alt.png"
-youtube: 4kTlydk77wo
+thumbnail: "../assets/young-steffy.jpg"
+youtube: 0Ugz65i_nkI
 categories:
   - General
 ---
@@ -20,8 +20,6 @@ My unique angle is that I’ll be exploring the intersection of Generative AI an
 Some background on myself, I have an advanced degree in Machine Learning so I can digest and think critically about the latest research. I can code pretty well too. Although, I’m a total noob to Unity, C#, Blender, and game dev concepts in general. (linear blend skinning?, particle systems?, pixel shaders?)
 
 ## My interest in video games?
-
-![image](../assets/young-steffy.jpg){: style="width:100%"}
 
 I've been absolutely fascinated by computers and video games since I was a young kid. I was very fortunate to grow up during the 90's, which was a pioneering time in computer and video game history.
 

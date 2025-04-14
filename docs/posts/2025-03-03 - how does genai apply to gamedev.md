@@ -1,7 +1,7 @@
 ---
-draft: false
+draft: true
 date: 2025-03-03
-slug: genai-and-gamedev
+slug: generative-gamedev
 title: How does GenAI apply to Game Development?
 thumbnail: "../assets/how-does-genai-apply-to-gamedev.png"
 youtube: 4kTlydk77wo

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2025-03-04
 slug: three-goals-for-2025
 title: Three goals for 2025
@@ -11,9 +11,11 @@ categories:
 
 I have three ambitious goals for this year:
 
-- **Goal 1:** _Synthesize human motion in real-time to animate and control a character._
-- **Goal 2:** _Generate assets with state-of-the-art foundation models._
-- **Goal 3:** _Develop an intelligent agent for interacting with the game world._
+:octicons-goal-16: _Synthesize human motion in real-time to animate and control a character._
+
+:octicons-goal-16: _Generate assets with state-of-the-art foundation models._
+
+:octicons-goal-16: _Develop an intelligent agent for interacting with the game world._
 
 It's going to be an exciting journey deepening my knowledge and experience with Unity and staying abreast of the latest developments in Generative AI. Allow me to elaborate.
 
