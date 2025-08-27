@@ -13,27 +13,10 @@ theme:
   font:
     text: Quicksand
   palette:
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: fontawesome/solid/link
-        name: Switch to light mode
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
+    - scheme: default
       scheme: purple
       primary: purple
       # accent: purple
-      toggle:
-        icon: fontawesome/solid/sun
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      # accent: black
-      toggle:
-        icon: fontawesome/solid/moon
-        name: Switch to system preference
   features:
     - navigation.instant
     - navigation.tabs
@@ -41,7 +24,7 @@ theme:
     - navigation.sections
     - navigation.path
   icon:
-    favicon: images/favicon.svg
+    favicon: favicon.ico
     repo: fontawesome/solid/code
     search: fontawesome/solid/magnifying-glass
 
@@ -73,6 +56,9 @@ hooks:
 
 extra:
   social:
-    - icon: fontawesome/brands/mastodon
-      name: squidfunk on Mastodon
-      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/brands/youtube
+      name: Generative GameDev on YouTube
+      link: https://www.youtube.com/@generative-gamedev
+    - icon: fontawesome/brands/threads
+      name: Generative GameDev on Threads
+      link: https://www.threads.com
