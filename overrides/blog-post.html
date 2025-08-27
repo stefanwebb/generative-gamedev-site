@@ -164,12 +164,16 @@
         </script>
 
         <!-- Embed YouTube video -->
+        {% if page.meta.youtube %}
         <div class="auto-resizable-iframe">
             <div style="margin-bottom: 2rem;">
                 <iframe frameborder="0" allowfullscreen=""
                     src="https://www.youtube.com/embed/{{page.meta.youtube}}"></iframe>
             </div>
         </div>
+        {% else %}
+        <img src="{{ page.meta.thumbnail }}" alt="" />
+        {% endif %}
         <!-- Text content  -->
         {% block content %}
         {% include "partials/content.html" %}

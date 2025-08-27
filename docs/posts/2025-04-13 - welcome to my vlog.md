@@ -5,6 +5,8 @@ slug: welcome
 title: Welcome to my vlog on GenAI and GameDev!
 thumbnail: "../assets/young-steffy.jpg"
 youtube: 0Ugz65i_nkI
+links:
+  - YouTube video: https://youtu.be/0Ugz65i_nkI
 categories:
   - General
 ---
