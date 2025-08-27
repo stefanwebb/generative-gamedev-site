@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://gamedev.blog/</loc>
+         <lastmod>2025-08-27</lastmod>
+    </url>
+    <url>
+         <loc>https://gamedev.blog/about/</loc>
+         <lastmod>2025-08-27</lastmod>
+    </url>
+    <url>
+         <loc>https://gamedev.blog/references/</loc>
+         <lastmod>2025-08-27</lastmod>
+    </url>
+    <url>
+         <loc>https://gamedev.blog/welcome/</loc>
+         <lastmod>2025-08-27</lastmod>
+    </url>
+    <url>
+         <loc>https://gamedev.blog/articulation-basics/</loc>
+         <lastmod>2025-08-27</lastmod>
+    </url>
+    <url>
+         <loc>https://gamedev.blog/archive/2025/</loc>
+         <lastmod>2025-08-27</lastmod>
+    </url>
+    <url>
+         <loc>https://gamedev.blog/category/animation/</loc>
+         <lastmod>2025-08-27</lastmod>
+    </url>
+    <url>
+         <loc>https://gamedev.blog/category/general/</loc>
+         <lastmod>2025-08-27</lastmod>
+    </url>
+</urlset>
